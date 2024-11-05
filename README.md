@@ -23,6 +23,6 @@
 
 ![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthi-keyank&theme=dark&show_icons=true&hide=issues,contribs)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/5ncMbbzMUz?ext=contest&theme=dark)](https://leetcode.com/5ncMbbzMUz)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/5ncMbbzMUz?theme=dark&font=Battambang)](https://leetcode.com/5ncMbbzMUz)
 
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/karthikeyan_K_)
