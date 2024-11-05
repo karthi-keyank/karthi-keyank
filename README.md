@@ -19,7 +19,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/canva.png"/> <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Termux" title="Termux"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/paint-palette.png" alt="IbisPaint" title="IbisPaint"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/canva.png"/> <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Termux" title="Termux"/> <img height="50" width="50" src="https://img.icons8.com/plasticine/100/ibis-paint-x.png" alt="ibis-paint-x" title="IbisPaint"/>
 
 ![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthi-keyank&theme=dark&show_icons=true&hide=issues,contribs)
 
