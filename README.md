@@ -25,25 +25,17 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="50" height="50" src="https://img.icons8.com/officel/80/php-logo.png" alt="php-logo"/><img width="50" height="50" src="https://img.icons8.com/plasticine/100/bash.png" alt="bash"/>
 
 ### Tools and Technologies
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/canva-app.png" alt="canva-app"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
-<img width="50" height="50" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/ibis-paint-x.png" alt="ibis-paint-x"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/canva-app.png" alt="canva-app"/><img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/><img width="50" height="50" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/><img width="50" height="50" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/ibis-paint-x.png" alt="ibis-paint-x"/>
 
 ---
 
-## GitHub Statistics
-![Karthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthi-keyank&theme=dark&show_icons=true&hide=issues,contribs)
+## Statistics
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/5ncMbbzMUz?theme=dark&font=Battambang)](https://leetcode.com/5ncMbbzMUz)
 
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/karthikeyan_K_)
 
-### Additional GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthi-keyank&theme=blue-green)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-keyank&theme=blue-green)
