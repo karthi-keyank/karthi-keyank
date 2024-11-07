@@ -38,6 +38,8 @@
 ### GitHub Stats
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=karthi-keyank&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-keyank&theme=blue-green)
 
 ---
