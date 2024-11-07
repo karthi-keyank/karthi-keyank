@@ -40,6 +40,4 @@
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=karthi-keyank&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-keyank&theme=blue-green)
-
 ---
