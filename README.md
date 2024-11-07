@@ -36,7 +36,7 @@
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/karthikeyan_K_)
 
 ### GitHub Stats
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=karthi-keyank&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=karthi-keyank&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=karthi-keyank&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
 
