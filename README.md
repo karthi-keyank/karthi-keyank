@@ -40,4 +40,6 @@
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=karthi-keyank&layout=compact&type=donut&theme=dark)](https://github.com/KasRoudra/github-stats-card)
 
+[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://auth.geeksforgeeks.org/user/user_k3ynxv2qaaa)
+
 ---
